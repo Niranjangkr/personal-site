@@ -20,7 +20,7 @@ const Hero = () => {
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
           I specialize in crafting stunning user interfaces <br className='sm:block hidden' />and professional looking websites
           </p>
-          <a href="https://drive.google.com/file/d/1hQk9B_CvwPZqiuyrQExeV0600q_RG26a/view?usp=sharing" target='_blank'><button className='bg-violet-700 p-3 mt-4  rounded-xl text-white-100 font-medium relative z-10'>VIEW RESUME</button></a>
+          <a href="https://drive.google.com/file/d/1CU1ALBvl-S3pnw-t4YiVqSdjFRZJq5l3/view?usp=sharing" target='_blank'><button className='bg-violet-700 p-3 mt-4  rounded-xl text-white-100 font-medium relative z-10'>VIEW RESUME</button></a>
         </div>
       </div>
 
